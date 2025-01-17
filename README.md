@@ -2,7 +2,7 @@
 
 A Good Weather Application With API
 
-![16](https://github.com/Reza-Developer01/GameLanding/blob/main/16.png)
+![16](https://github.com/Reza-Developer01/WeatherApp/blob/main/16.png)
 
 - ✨ [Demo Project](https://reza-developer01.github.io/GameLanding/)
 
